@@ -2377,6 +2377,21 @@
             { "text": "Candles" },
             { "text": "More stone blocks" }
           ],
+          
+          {
+          "title": "Caves & Cliffs pt. 2",
+          "subtitle": "1.18",
+          "description": "It completely overhauls the Overworld generation, with larger caves, taller mountains, new mountain biomes, new cave biomes, and flooded caves.",
+          "type": "major",
+          "date": "2021-11-30",
+          "icon": "versions/bedrock/version_1_18.png",
+          "funFact": "Not yet",
+          "learnMore": "#Bedrock_Edition_1.18.0",
+          "mainFeatures": [
+            { "text": "Larger Caves" },
+            { "text": "Larger Mountains" },
+            { "text": "New advancements" }
+          ],
           "minorFeatures": [
             { "text": "Improved various textures" },
             { "text": "Light block" },
